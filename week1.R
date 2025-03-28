@@ -60,7 +60,7 @@ grades <- c(1, 2, 3, 4, 7, 1, 6, 3, 6, 8, 8, 10, 3, 5, 7, 2, 6)
 # The way to extract a variable from a datase is `$`
 # For example, `df$grade` will extract the `grade` column from the dataset as a vector:
 
-df <- read.csv("grades.csv")
+df <- read.csv("https://raw.githubusercontent.com/Digicomlab/RStudyGroup/refs/heads/main/grades.csv")
 df$grade
 
 # Now, calculate the average grade of the students in the dataset
