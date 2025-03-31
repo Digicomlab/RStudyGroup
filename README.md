@@ -4,7 +4,7 @@ Materials to work with the [R course material]([https://www.py4e.com/](https://g
 
 Maintainer: Justin Chun-ting Ho
 
-Last update: 28-03-2025
+Last update: 31-03-2025
 
 EtherPad: [https://pad.carpentries.org/asocr](https://pad.carpentries.org/asocr)
 
@@ -15,4 +15,5 @@ This study group is designed to teach basic R programming and using the tidyvers
 
 | Week | Video Tutorial | Optional Reading | Core packages / functions |
 |----|---|---|---|
-| 1 | https://www.youtube.com/watch?v=PVhZD5MINYM (from the beginning to the 17:00 mark, skipping the rest of the video) | [4](https://r4ds.had.co.nz/workflow-basics.html) | [base R](https://github.com/rstudio/cheatsheets/blob/main/base-r.pdf)
+| 1 | https://www.youtube.com/watch?v=PVhZD5MINYM (from the beginning to the 17:00 mark, skipping the rest of the video) | [4](https://r4ds.had.co.nz/workflow-basics.html) | [base R](https://github.com/rstudio/cheatsheets/blob/main/base-r.pdf) |
+| 2 | https://www.youtube.com/watch?v=CATqkFiZljU and https://www.youtube.com/watch?v=lde7wLORQpo | [5](https://r4ds.had.co.nz/transform.html) | [dplyr](https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-transformation.pdf) |
