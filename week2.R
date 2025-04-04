@@ -128,7 +128,7 @@ df %>%
 
 
 
-################ Exercise 2 ################ 
+################ Exercise 3 ################ 
 # Create a new variable `recent_pub` using mutate() and case_when()
 # Apply TRUE to articles published in or after 2023, FALSE to all other articles
 
@@ -139,7 +139,7 @@ df %>%
 
 
 
-################ Exercise 3 ################ 
+################ Exercise 4 ################ 
 # Extract 5 most cited articles from BOTH journal
 # There are multiple ways to do the same thing.
 # These functions can be useful: `group_by()`, `arrange()`, `desc()`, `head()`
