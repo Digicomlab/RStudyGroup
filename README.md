@@ -4,8 +4,6 @@ Materials to work with the [R course material]([https://www.py4e.com/](https://g
 
 Maintainer: Justin Chun-ting Ho
 
-Last update: 31-03-2025
-
 EtherPad: [https://pad.carpentries.org/asocr](https://pad.carpentries.org/asocr)
 
 ## Study Group Schedule
