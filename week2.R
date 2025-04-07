@@ -52,7 +52,7 @@ df[1:3, 7]
 ## the 3rd row of the data frame
 df[3, ]
 
-## equivalent to head(interviews) 
+## equivalent to head(df) 
 df[1:6, ]
 df[-c(7:131), ] # - minus means except
 
