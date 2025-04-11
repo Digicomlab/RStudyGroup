@@ -5,3 +5,5 @@
 .DS_Store
 RStudyGroup.Rproj
 .DS_Store
+top100comm_5years_noempty.csv
+datawranglingforcsv.R
