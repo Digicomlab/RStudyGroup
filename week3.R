@@ -39,7 +39,7 @@ na.omit(df_full)
 ################ Reshaping ################
 # For "long" data format, there are three components (columns):
 # 1. one for the id variable
-# 2. one for the observed variable(s) (variable name)
+# 2. one* for the observed variable(s) (variable name)
 # 3. one for the observed value (of the variable in the same row).
 
 pivot_longer(data = df_full, 
